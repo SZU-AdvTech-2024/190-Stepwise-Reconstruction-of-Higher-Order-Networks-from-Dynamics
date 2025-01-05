@@ -1,0 +1,10 @@
+@article{REPO190,
+    author = "Zang, Yingbang and Fan, Ziye and Wang, Zixi and Zheng, Yi and Ding, Li and Wu, Xiaoqun",
+    doi = "10.1063/5.0210741",
+    journal = "Chaos",
+    number = "7",
+    pages = "073156",
+    title = "{Stepwise Reconstruction of Higher-Order Networks from Dynamics}",
+    volume = "34",
+    year = "2024"
+}
